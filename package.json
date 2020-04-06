@@ -1,0 +1,17 @@
+{
+  "name": "discord-invitetracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cedric Le Denmat",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "ms": "^2.1.1",
+    "npm": "^5.8.0",
+    "sqlite": "^2.9.2"
+  }
+}
